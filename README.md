@@ -1,11 +1,14 @@
 # nova
 
+### A super simple http server
+
 [![Package Version](https://img.shields.io/hexpm/v/nova)](https://hex.pm/packages/nova)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/nova/)
 
 ```sh
 gleam add nova@1
 ```
+
 ```gleam
 import nova
 
